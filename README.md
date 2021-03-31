@@ -1,4 +1,4 @@
-# thymeleaf-crud
+# thymeleaf-CRUD
 Simple spring boot application to understand thymeleaf template engine.
 
 ## Application Output
