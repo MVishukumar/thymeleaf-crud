@@ -17,6 +17,6 @@ Simple spring boot application to understand thymeleaf template engine.
 
 The **Edit** and **Delete** buttons just work fine. ;)
 
-Pay special attention to how the title of the application is being read from i18n properties file.
+Pay special attention to how the title of the application is being read from **i18n** properties file.
 
 Thanks!
